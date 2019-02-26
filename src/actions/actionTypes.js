@@ -1,0 +1,4 @@
+export const FETCH_PROD_SUCCESS = 'FETCH_PROD_SUCCESS';
+export const ADD_TO_CART_SUCCESS = 'ADD_TO_CART_SUCCESS'; 
+export const DELETE_CART = 'DELETE_CART';
+export const UPDATE_CART = 'UPDATE_CART';
