@@ -1,4 +1,4 @@
 
-# BuyVegitables in Online;
+# BuyVegitables in Online
 
-#React, Redux and middleware
+# React, Redux, Material UI and middleware(SAGA)
